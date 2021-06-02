@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33576" started-at="2021-05-29T10:49:49Z" finished-at="2021-05-29T10:50:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33576" started-at="2021-05-29T10:49:49Z" finished-at="2021-05-29T10:50:23Z">
+      <class name="com.myAndroid.Tests.NineTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.myAndroid.Tests.NineTest@5ebec15]" name="beforeTest" is-config="true" duration-ms="34" started-at="2021-05-29T16:19:49Z" finished-at="2021-05-29T16:19:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.myAndroid.Tests.NineTest@5ebec15]" name="f" duration-ms="24195" started-at="2021-05-29T16:19:49Z" finished-at="2021-05-29T16:20:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.myAndroid.Tests.NineTest@5ebec15]" name="afterTest" is-config="true" duration-ms="9327" started-at="2021-05-29T16:20:13Z" finished-at="2021-05-29T16:20:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.myAndroid.Tests.NineTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
